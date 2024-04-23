@@ -83,10 +83,6 @@ const options = {
           to: "icons",
         },
         {
-          from: path.resolve(__dirname, "public/icon-48.png"),
-          to: "icons",
-        },
-        {
           from: path.resolve(__dirname, "public/icon-128.png"),
           to: "icons",
         },
