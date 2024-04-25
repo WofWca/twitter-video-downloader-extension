@@ -76,6 +76,10 @@ const options = {
           },
         },
         {
+          from: path.resolve(__dirname, "public/_locales"),
+          to: "_locales",
+        },
+        {
           from: path.resolve(__dirname, "public/icon-16.png"),
           to: "icons",
         },
